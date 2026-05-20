@@ -1,1 +1,3 @@
 gptdiff>=0.5.2
+# gptdiff 0.5.2 doesn't pin this; ai-agent-toolbox>=1.0 removed MarkdownParser.
+ai-agent-toolbox<1.0
